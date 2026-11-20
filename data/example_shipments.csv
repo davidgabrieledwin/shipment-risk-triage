@@ -1,0 +1,7 @@
+shipment_id,snapshot_date,sla_hours_remaining,hub_dwell_hours,lane_backlog,distance_km,service_level
+EX-101,2025-03-22,28,4,12,460,standard
+EX-102,2025-03-22,17,15,62,820,standard
+EX-103,2025-03-22,10,2,8,150,express
+EX-104,2025-03-22,24,8,58,910,standard
+EX-105,2025-03-22,7,3,26,340,standard
+EX-106,2025-03-22,32,12,45,1170,express
